@@ -4,7 +4,9 @@ BuildMorph3D turns floorplans, sketches, and CAD drawings into review-ready 3D m
 
 ## Live app
 
-The Vercel deployment link will be added here after the first deployment.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Hiteshmohod07/BUILDMORPH3D)
+
+Use the button above to import this GitHub repository into Vercel and create the production deployment from `main`.
 
 ## Run locally
 
